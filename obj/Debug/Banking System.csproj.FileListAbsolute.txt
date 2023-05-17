@@ -1,0 +1,17 @@
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\bin\Debug\Banking System.exe
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\bin\Debug\Banking System.pdb
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking_System.MainMenu.resources
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking_System.Splash.resources
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking_System.Login.resources
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking System.csproj.GenerateResource.cache
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking System.exe
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking System.pdb
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking_System.AddAccounts.resources
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking_System.Settings.resources
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking_System.Transactions.resources
+C:\Users\Pierre\Desktop\C#(VS)\Banking System\obj\Debug\Banking_System.Agents.resources
